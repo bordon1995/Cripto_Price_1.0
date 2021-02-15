@@ -1,5 +1,6 @@
 # Cripto_Price_1.0
 Es un programa que tiene como finalidad mostrar los precios de las 10 principales cripto monedas de manera interactiva . Este programa fue desarrollado con el lenguaje de java ES , utilizando conceptos tales como encapsulamiento , manejo de Herencia  , polimorfismo , entre otros conceptos de la programación orientado a objetos (POO) . Al iniciar el programa se puede ver un JTextArea en donde los precios se van actualizando de manera automática dentro de un determinado tiempo .Para lograr este evento utilice la librería "Jsoup" .
+
 ![Cripto_price principal](https://user-images.githubusercontent.com/77468883/107888603-34141280-6eec-11eb-8cc9-a97850ac31a5.png)
 
 Este programa esta desarrollado con tres interfases , la primer interfaz es un Splashscreen que tiene como función cargar todas las clases 
